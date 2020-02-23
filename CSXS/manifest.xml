@@ -35,7 +35,7 @@
 		<Extension Id="com.cep.angular">
 			<DispatchInfo >
 				<Resources>
-				<MainPath>./dist/project-angular/index.html</MainPath>
+				<MainPath>./dist/cep-extension/index.html</MainPath>
 				</Resources>
 				<Lifecycle>
 					<AutoVisible>true</AutoVisible>
